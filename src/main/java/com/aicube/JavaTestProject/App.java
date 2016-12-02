@@ -1,7 +1,7 @@
 package com.aicube.JavaTestProject;
 
 /**
- * Hello world!
+ * Hello world! v1.0
  *
  */
 public class App 
